@@ -14,7 +14,7 @@ lerobotをDepthAIカメラ OAK-D に対応させるためのMODです。
         Copyright 2024 The HuggingFace Inc. team. All rights reserved.
 
 
-    License
+License
 
     This project is a modified redistribution of LeRobot by Hugging Face, with added support for OAK-D (DepthAI) cameras.
 
